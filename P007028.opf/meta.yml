@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN5468
   title: སྔོན་འགྲོའི་དཔེ་རིས་རབ་གསལ་མེ་ལོང་།
-  volume: ''
+  volume:
+    fc8772dc908d44dd886c1a259b758392:
+      image_group_id: I3CN5470
+      title: Volume 1 of sngon 'gro'i dpe ris rab gsal me long /
+      volume_number: 1
+      total_pages: 290
+    c4c9cf20f5c5450a943b4af47b7f1e5b:
+      image_group_id: I3CN5471
+      title: Volume 2 of sngon 'gro'i dpe ris rab gsal me long /
+      volume_number: 2
+      total_pages: 122
   author: ''
+ebook_metadata:
+  title: སྔོན་འགྲོའི་དཔེ་རིས་རབ་གསལ་མེ་ལོང་།
+  author: ''
+  sku: P007028
+  cover: cover.jpg
+  layers:
+  - pagination
