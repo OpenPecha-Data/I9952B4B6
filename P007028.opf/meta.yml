@@ -1,5 +1,7 @@
 id: P007028
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W3CN5468
   title: སྔོན་འགྲོའི་དཔེ་རིས་རབ་གསལ་མེ་ལོང་།
@@ -17,10 +19,3 @@ source_metadata:
       volume_number: 2
       total_pages: 122
       base_file: v002.txt
-ebook_metadata:
-  title: སྔོན་འགྲོའི་དཔེ་རིས་རབ་གསལ་མེ་ལོང་།
-  author: ''
-  sku: P007028
-  cover: cover.jpg
-  layers:
-  - pagination
